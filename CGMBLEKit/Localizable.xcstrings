@@ -1782,6 +1782,10 @@
         }
       }
     },
+    "Temporary sensor issue" : {
+      "comment" : "The description of sensor calibration state when the sensor reports a temporary sensor issue (???).",
+      "localizations" : {}
+    },
     "Unknown characteristic" : {
       "comment" : "Error description",
       "localizations" : {
